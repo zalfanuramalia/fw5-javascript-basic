@@ -1,0 +1,10 @@
+const printSegitiga = 5;
+
+for (i=1; i<=printSegitiga; i++){
+    for(j=i; j<=printSegitiga; j++){
+       console.log(i)
+    }  
+    console.log("\n")
+}
+
+
